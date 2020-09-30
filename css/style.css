@@ -1,0 +1,20 @@
+body{
+    background-color: tomato;
+}
+
+.marg{
+    margin: 30px auto auto 30px; 
+}
+
+.title{
+    margin: 30px auto auto 30px;
+    color: white;
+    font-size: 30px;
+}
+
+.paragraph{
+    margin: 30px auto auto 30px;
+}
+img{
+    width: 300px;
+}
