@@ -1,5 +1,9 @@
+body.yellow{
+    background-color:yellow;
+}
+
 body{
-    background-color: tomato;
+    background-color: white;
 }
 
 .marg{
@@ -15,6 +19,50 @@ body{
 .paragraph{
     margin: 30px auto auto 30px;
 }
-img{
+.banner{
     width: 1170px; 
 }
+
+.logo{
+    width: 100px;
+    margin-top: 30px;
+    margin-left: 30px;
+    
+    
+}
+.navigation{
+    margin-left: 30px;
+    margin-top:30px;
+}
+
+.navigation-a{
+    margin-top: 15px;
+    display: inline-block;
+    text-decoration: none;
+    font-family: ninob;
+
+}
+
+.banner-section{
+    margin-top: 30px;
+    margin-left: 30px;
+}
+
+/* footer start */
+.divider{
+    display: inline-block;
+    height: 30px;
+    background-color: blue;
+    width: 3px;
+    margin: auto 30px
+}
+
+.social-ul{
+    display: inline-block;
+    
+}
+.social-image{
+    
+    height: 30px;
+}
+/* footer end */
